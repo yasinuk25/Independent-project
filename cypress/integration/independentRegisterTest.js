@@ -7,6 +7,7 @@ describe('INDEPENDENT Register Test', () => {
         // returning false here prevents Cypress from
         // failing the test
         return false
+        //
     });
 
     it('User navigates to the Independent web page and handle popup', () => {
